@@ -8,4 +8,4 @@ Files included are:
 * [`cg_prp2.jl`](cg_prp2.jl) has an implementation of the Polak-Ribiere conjugate gradient method
 * [`wolfesearch.jl`](wolfesearch.jl) implements a Wolfe-condition based line search.
 * [`optweights.jl`](optweights.jl) has most of the code specific to this paper.
-* [`Optimal weights computation.ipynb`](Optimal weights computation.ipynb) is the notebook showing how to use the above code, and perform the computations for the results in the paper.
+* [This file](Optimal weights computation.ipynb) is the notebook showing how to use the above code, and perform the computations for the results in the paper.
